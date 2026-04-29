@@ -2,4 +2,4 @@ Cisco Packet Tracer secure corporate network lab with VLAN segmentation, ACLs, N
 
 ## Full Project Documentation
 
-[View Full Project PDF](secure-corporate-network-lab.pdf)
+📄 [Click here to view the full project PDF](./secure-corperate-network-lab.pdf)
